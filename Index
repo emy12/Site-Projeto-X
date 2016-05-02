@@ -1,0 +1,105 @@
+<!--XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-->
+<!--INICIO, CABEÇALHO, MENU, TITULOS...-->
+<DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<meta charset="utf-8">  
+	    <title> Projeto X </title>
+		<link rel="stylesheet" type="text/css" href="_css/estilo.css"  >
+	</head>	
+	
+<!--xxxxxxxxxxxxxx Body xxxxxxxxxxxxxxxxxxxxxxxx-->
+	<body>
+		<div id="interface">
+			<header>
+				<img src="_imagens/logo4.png" alt="Não foi possivel carregar logotipo do projeto" >
+				<hgroup>
+					<h1>Projeto X</h1>
+					<h2>Este é o projeto X<h2/>
+				</hgroup>
+				<nav>
+					<ul>
+						<li><a href="index.html">Home</a></li>
+						<li><a href="sobre.html">Sobre</a></li>
+						<li><a href="desenvolvimento.html">Desenvolvimento</a></li>
+						<li style="float:right"><a href="contato.html">Contato</a></li>
+					</ul>
+				</nav></header>
+<!--XXXXXXXXXXXXX Inserir aqui a barra de imagens rolantes XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---->
+					<article class="banner">
+					<!--<img src="_imagens/banner1.jpg">-->
+					
+					 <img src="css.jpg" />
+					
+					</article>
+					
+<!--XXXXXXXXXXXXXXX Termina o Header XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---->			
+			
+	
+	
+<!--XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX aside XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-->
+	<aside style="width:300px;">
+	
+<title>Calendário</title>
+
+<table border="0" bgcolor="#8B8989">
+<tr bgcolor="#70DBDB"><th colspan="4">ABRIL</th><th colspan="3">2016</th></tr>
+<tr bgcolor="#48D1CC"><th>DOM</th><th>SEG</th><th>TER</th><th>QUA</th><th>QUI</th><th>SEX</th><th>SAB</th></tr>
+<tr bgcolor="#B0E2FF"><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td><!--<a href="www.google.com.br">-->1 </a></td><td> 2</td></tr>
+<tr bgcolor="#A4D3EE"><td> 3</td><td> 4</td><td> 5</td><td> 6</td><td> 7</td><td> 8</td><td> 9</td></tr>
+<tr bgcolor="#B0E2FF"><td> 10</td><td>11</td><td>12</td><td>13</td><td>14</td><td>15</td><td>16</td></tr>
+<tr bgcolor="#A4D3EE"><td>17</td><td>18</td><td>19</td><td>20</td><td>21</td><td>22</td><td>23</td></tr>
+<tr bgcolor="#B0E2FF"><td>24</td><td>25</td><td>26</td><td>27</td><td>28</td><td>29</td><td>30</td></tr>
+<!--<tr bgcolor="#A4D3EE"><td>  </td><td> </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>-->
+</table>
+	</aside>
+
+	<!--XXXXXXXXXXXXXXXXXXXXXXX SECTION XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-->
+	<section style="width:auto;display:block; float:center;">
+		<header>
+			
+				<hgroup>
+					<h1>Diário</h1>
+					<h2>Título da Atividade</h2>
+				</hgroup>
+		</header>
+			<article>
+				<p>Corpo do Texto sobre a atividade</p>
+			</article>
+		<footer>
+			
+		</footer>
+	</section>	
+	
+	
+	
+	
+<!--XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX ASIDE XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-->	<!-- e ficamos interessadas de como o aplicativo ajudaria as ONGs de campinas. 	-->	
+	<aside id="autoras"; style="width:200px; display:block; float:right">
+		<figure>
+			<img src="_imagens/silhueta.png" alt="Não foi possivel carregar imagem">
+				<figcaption>
+					<h3>Desenvolvedoras</h3>
+				</figcaption>
+		</figure>
+		<p><b>Emily</b> e <b>Roberta</b></p>
+		<br/>
+		<p>
+			Nós somos estudantes do 2&ordm; ano do Técnico de Informática,
+estamos desenvolvendo o Projeto X como nosso TCC. Ambas gostamos de Informática um dos motivos
+para escolher o curso, vivemos na cidade de Campinas/SP. A escolha do projeto sobre as
+ONGs de animais é porque amamos animais
+	
+			
+		</p>
+	
+	
+	</aside>
+	</body>
+<footer>
+
+</footer>
+	</div>
+	
+</html><!--site jssor procura por imagem deslizante, barra de imagens logotipo-->
+\ No newline at end of file
